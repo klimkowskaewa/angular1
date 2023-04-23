@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    username:
+    password:
+    url: jdbc:sqlserver://morfeusz.wszib.edu.pl:1433;databaseName=;encrypt=false;
+  jpa:
+    hibernate:
+      ddl-auto: update
